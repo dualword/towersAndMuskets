@@ -4,8 +4,8 @@
 #include <GuiObserver.h>
 #include <list>
 #include <GuiElement.h>
-#include <irrlicht/irrlicht.h>
-#include <sfml/SFML/Audio.hpp>
+#include <irrlicht.h>
+#include <SFML/Audio.hpp>
 #include <GameState.h>
 #include <map>
 #include <GuiElementPurchase.h>

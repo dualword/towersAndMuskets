@@ -2,7 +2,7 @@
 #define GROUPPATHMOVER_H
 
 #include <vector>
-#include <irrlicht/irrlicht.h>
+#include <irrlicht.h>
 
 class GroupPathMover {
 private:

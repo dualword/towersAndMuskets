@@ -1,7 +1,7 @@
 #ifndef RENDERMANAGER_H
 #define RENDERMANAGER_H
 
-#include <irrlicht/irrlicht.h>
+#include <irrlicht.h>
 #include <string>
 
 /**

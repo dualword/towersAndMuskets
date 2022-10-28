@@ -2,7 +2,7 @@
 #define SELECTABLECOMPONENT_H
 
 #include <GameComponent.h>
-#include <irrlicht/irrlicht.h>
+#include <irrlicht.h>
 #include <iostream>
 
 /**

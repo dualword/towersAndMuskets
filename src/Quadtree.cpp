@@ -1,7 +1,7 @@
 #include <Quadtree.h>
 #include <iostream>
 #include <RenderManager.h>
-#include <irrlicht/irrlicht.h>
+#include <irrlicht.h>
 #include <Game.h>
 
 Quadtree::Quadtree ( int level, irr::core::rectf bounds ) {

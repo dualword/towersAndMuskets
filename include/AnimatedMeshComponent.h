@@ -1,7 +1,7 @@
 #ifndef ANIMATEDMESHCOMPONENT_H
 #define ANIMATEDMESHCOMPONENT_H
 
-#include <irrlicht/irrlicht.h>
+#include <irrlicht.h>
 #include <GameComponent.h>
 #include <RenderManager.h>
 #include <Game.h>

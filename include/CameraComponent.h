@@ -2,7 +2,7 @@
 #define CAMERACOMPONENT_H
 
 #include <GameComponent.h>
-#include <irrlicht/irrlicht.h>
+#include <irrlicht.h>
 
 /**
  * Component to specify that an object should be used as

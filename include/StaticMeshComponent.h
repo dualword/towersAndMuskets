@@ -1,7 +1,7 @@
 #ifndef STATICMESHCOMPONENT_H
 #define STATICMESHCOMPONENT_H
 
-#include <irrlicht/irrlicht.h>
+#include <irrlicht.h>
 #include <GameComponent.h>
 #include <RenderManager.h>
 #include <Game.h>

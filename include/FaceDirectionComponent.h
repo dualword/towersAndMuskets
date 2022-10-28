@@ -2,7 +2,7 @@
 #define FACEDIRECTIONCOMPONENT_H
 
 #include <GameComponent.h>
-#include <irrlicht/irrlicht.h>
+#include <irrlicht.h>
 
 /**
  * Component for describing the direction an object

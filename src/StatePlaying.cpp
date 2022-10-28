@@ -1,8 +1,8 @@
 #include <StatePlaying.h>
-#include <irrlicht/irrlicht.h>
+#include <irrlicht.h>
 #include <Game.h>
-#include <sfml/SFML/Audio.hpp>
-#include <sfml/SFML/Window.hpp>
+#include <SFML/Audio.hpp>
+#include <SFML/Window.hpp>
 #include <TransparentMaterialShader.h>
 #include <StateWinLose.h>
 
@@ -23,13 +23,13 @@ StatePlaying::StatePlaying(std::string mapname) : GameState("StatePlaying") {
 	
 	if (gpu) {
 		TransparentMaterialShader* shader = new TransparentMaterialShader();
-		
+
 		s32 newMat = gpu->addHighLevelShaderMaterialFromFiles(
 			"./res/materials/shaders/transparentshader.vert", "vertexMain", video::EVST_VS_1_1,
 			"./res/materials/shaders/transparentshader.frag", "pixelMain", video::EPST_PS_1_1,
 			shader, video::EMT_TRANSPARENT_ADD_COLOR, 0, video::EGSL_CG
 		);
-		
+
 		s32 newMat2 = gpu->addHighLevelShaderMaterialFromFiles(
 			"./res/materials/shaders/transparentshader.vert", "vertexMain", video::EVST_VS_1_1,
 			"./res/materials/shaders/transparentshader.frag", "pixelMain", video::EPST_PS_1_1,
@@ -37,7 +37,7 @@ StatePlaying::StatePlaying(std::string mapname) : GameState("StatePlaying") {
 		);
 		
 		shader->drop();
-		
+
 		TransparentMaterialShader::materialID = newMat;
 		TransparentMaterialShader::materialIDNonAdd = newMat2;
 	}

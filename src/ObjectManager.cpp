@@ -1,7 +1,7 @@
 #include <iostream>
 #include <algorithm>
 
-#include <irrlicht/irrlicht.h>
+#include <irrlicht.h>
 #include <ObjectManager.h>
 #include <GameComponent.h>
 

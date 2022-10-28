@@ -4,7 +4,7 @@
 #include <SelectableComponent.h>
 #include <ObjectManager.h>
 #include <list>
-#include <irrlicht/irrlicht.h>
+#include <irrlicht.h>
 #include <RenderManager.h>
 #include <iostream>
 #include <FaceDirectionComponent.h>

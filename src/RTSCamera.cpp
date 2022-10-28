@@ -1,7 +1,7 @@
 #include <RTSCamera.h>
-#include <sfml/SFML/Window.hpp>
+#include <SFML/Window.hpp>
 #include <EventReceiver.h>
-#include <sfml/SFML/Audio.hpp>
+#include <SFML/Audio.hpp>
 
 using namespace sf;
 using namespace irr;

@@ -4,7 +4,7 @@
 #include <GameComponent.h>
 #include <string>
 #include <map>
-#include <irrlicht/irrlicht.h>
+#include <irrlicht.h>
 
 /**
  * Struct for storing data about a single animation, including

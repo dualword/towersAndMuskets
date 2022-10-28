@@ -29,7 +29,7 @@ RenderManager::~RenderManager() {
  */
 void RenderManager::init ( const wchar_t* caption ) {
 	
-	device = createDevice(video::EDT_OPENGL, dimension2d<u32>(1280, 720), 16, false, DebugValues::STENCIL_ENABLED, false);
+	device = createDevice(video::EDT_OPENGL, dimension2d<u32>(800, 600), 16, false, DebugValues::STENCIL_ENABLED, false);
 	
 	if (!device) {
 		cerr << "An error occurred when creating the display device :(" << endl; 

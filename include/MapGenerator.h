@@ -1,7 +1,7 @@
 #ifndef MAPGENERATOR_H
 #define MAPGENERATOR_H
 
-#include <irrlicht/irrlicht.h>
+#include <irrlicht.h>
 #include <string>
 
 class MapGenerator {

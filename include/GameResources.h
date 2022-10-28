@@ -1,7 +1,7 @@
 #ifndef GAMERESOURCES_H
 #define GAMERESOURCES_H
 
-#include <sfml/SFML/Audio.hpp>
+#include <SFML/Audio.hpp>
 #include <list>
 #include <map>
 #include <string>

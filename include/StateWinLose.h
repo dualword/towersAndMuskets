@@ -5,7 +5,7 @@
 #include <GuiObserver.h>
 #include <list>
 #include <GuiElement.h>
-#include <sfml/SFML/Audio.hpp>
+#include <SFML/Audio.hpp>
 #include <RenderManager.h>
 #include <Game.h>
 

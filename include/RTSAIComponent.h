@@ -2,8 +2,8 @@
 #define RTSAICOMPONENT_H
 
 #include <GameComponent.h>
-#include <irrlicht/irrlicht.h>
-#include <sfml/SFML/Audio.hpp>
+#include <irrlicht.h>
+#include <SFML/Audio.hpp>
 #include <Enums.h>
 #include <ParticleManager.h>
 

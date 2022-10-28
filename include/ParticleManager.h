@@ -2,7 +2,7 @@
 #define PARTICLEMANAGER_H
 
 #include <vector>
-#include <irrlicht/irrlicht.h>
+#include <irrlicht.h>
 #include <string>
 
 struct ParticleData {

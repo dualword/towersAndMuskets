@@ -2,7 +2,7 @@
 #define SPAWNLOCATIONCOMPONENT_H
 
 #include <GameComponent.h>
-#include <irrlicht/irrlicht.h>
+#include <irrlicht.h>
 
 class SpawnLocationComponent : public GameComponent {
 private:

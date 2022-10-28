@@ -1,7 +1,7 @@
 #include <WaveController.h>
 #include <Game.h>
 #include <StatePlaying.h>
-#include <irrlicht/irrlicht.h>
+#include <irrlicht.h>
 #include <TowerDefenseEngine.h>
 #include <algorithm>
 #include <time.h>

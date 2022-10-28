@@ -6,7 +6,7 @@
 #include <list>
 #include <RenderManager.h>
 #include <GuiObserver.h>
-#include <sfml/SFML/Audio.hpp>
+#include <SFML/Audio.hpp>
 #include <iostream>
 #include <Game.h>
 
@@ -26,9 +26,9 @@ private:
 public:
 	StateMainMenu() : GameState("StateMainMenu") {
 		std::string filepath = RenderManager::resPath + "/materials/textures/SerifFont.xml";
-		guiElements.push_back(new GuiElement(720, 680, 200, 25, "Play", filepath, irr::video::SColor(50,255,255,255), btnPlay));
+		guiElements.push_back(new GuiElement(200, 300, 200, 25, "Play", filepath, irr::video::SColor(50,255,255,255), btnPlay));
 		//guiElements.push_back(new GuiElement(720, 680, 200, 25, "Options", filepath, irr::video::SColor(50,255,255,255), btnOptions));
-		guiElements.push_back(new GuiElement(940, 680, 200, 25, "Quit", filepath, irr::video::SColor(50,255,255,255), btnQuit));
+		guiElements.push_back(new GuiElement(200, 350, 200, 25, "Quit", filepath, irr::video::SColor(50,255,255,255), btnQuit));
 			
 		for (GuiElement* e : guiElements) {
 			e->registerObserver(this);

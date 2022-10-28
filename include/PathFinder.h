@@ -3,7 +3,7 @@
 
 #include <WorldManager.h>
 #include <NodePath.h>
-#include <irrlicht/irrlicht.h>
+#include <irrlicht.h>
 #include <vector>
 
 /**

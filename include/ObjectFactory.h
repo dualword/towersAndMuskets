@@ -20,8 +20,8 @@
 #include <TeamComponent.h>
 #include <SpawnLocationComponent.h>
 #include <RTSAIComponent.h>
-#include <irrlicht/irrlicht.h>
-#include <sfml/SFML/Audio.hpp>
+#include <irrlicht.h>
+#include <SFML/Audio.hpp>
 #include <string>
 #include <Enums.h>
 

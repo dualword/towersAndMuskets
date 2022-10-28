@@ -2,7 +2,7 @@
 #define TRANSFORMCOMPONENT_H
 
 #include <GameComponent.h>
-#include <irrlicht/irrlicht.h>
+#include <irrlicht.h>
 
 /**
  * Component to hold information about an object's position, rotation

@@ -1,5 +1,5 @@
 #include <InteractionMenu.h>
-#include <irrlicht/irrlicht.h>
+#include <irrlicht.h>
 #include <RenderManager.h>
 #include <string>
 #include <iostream>

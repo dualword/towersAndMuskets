@@ -2,7 +2,7 @@
 #define WAVECONTROLLER_H
 
 #include <vector>
-#include <irrlicht/irrlicht.h>
+#include <irrlicht.h>
 
 struct SpawnLocation {
 	int id;

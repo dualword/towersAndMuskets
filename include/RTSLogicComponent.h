@@ -2,10 +2,10 @@
 #define RTSMOVEMENTCOMPONENT_H
 
 #include <GameComponent.h>
-#include <sfml/SFML/Audio.hpp>
+#include <SFML/Audio.hpp>
 #include <random>
 #include <stack>
-#include <irrlicht/irrlicht.h>
+#include <irrlicht.h>
 #include <Enums.h>
 #include <iostream>
 #include <ParticleManager.h>

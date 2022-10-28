@@ -2,7 +2,7 @@
 #define SELECTIONSYSTEM_H
 
 #include <ComponentSystem.h>
-#include <irrlicht/irrlicht.h>
+#include <irrlicht.h>
 
 /**
  * System for selecting a game object when a box is drawn over the screen

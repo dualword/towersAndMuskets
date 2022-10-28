@@ -1,8 +1,8 @@
 #include <Game.h>
-#include <irrlicht/irrlicht.h>
+#include <irrlicht.h>
 #include <EventReceiver.h>
 #include <chrono>
-#include <sfml/SFML/Window.hpp>
+#include <SFML/Window.hpp>
 #include <StateMainMenu.h>
 #include <DebugValues.h>
 

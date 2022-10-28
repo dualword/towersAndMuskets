@@ -3,7 +3,7 @@
 
 #include <vector>
 #include <list>
-#include <irrlicht/irrlicht.h>
+#include <irrlicht.h>
 
 /**
  * A quadtree data structure. Holds pointers to 4 child nodes which

@@ -3,7 +3,7 @@
 
 #include <GameComponent.h>
 #include <NodePath.h>
-#include <irrlicht/irrlicht.h>
+#include <irrlicht.h>
 
 /**
  * Component for applying steering behaviours to an object to move

@@ -1,5 +1,5 @@
 #include <ObjectPlacer.h>
-#include <irrlicht/irrlicht.h>
+#include <irrlicht.h>
 #include <EventReceiver.h>
 #include <Game.h>
 #include <ObjectFactory.h>

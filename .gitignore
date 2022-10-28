@@ -1,0 +1,11 @@
+#
+game
+.build
+Makefile
+.qmake.stash
+
+#
+/.cproject
+/.project
+/.externalToolBuilders
+/.settings

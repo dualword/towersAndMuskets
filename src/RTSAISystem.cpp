@@ -20,7 +20,7 @@
 #include <FaceDirectionComponent.h>
 #include <Quadtree.h>
 #include <Game.h>
-#include <irrlicht/irrlicht.h>
+#include <irrlicht.h>
 #include <Enums.h>
 #include <GroupPathMover.h>
 

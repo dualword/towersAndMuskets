@@ -3,7 +3,7 @@
 
 #include <ComponentSystem.h>
 #include <ObjectManager.h>
-#include <irrlicht/irrlicht.h>
+#include <irrlicht.h>
 #include <Enums.h>
 
 #include <RTSVillagerLogicComponent.h>

@@ -1,7 +1,7 @@
 #ifndef RTSCAMERA_H
 #define RTSCAMERA_H
 
-#include <irrlicht/irrlicht.h>
+#include <irrlicht.h>
 #include <Game.h>
 
 class RTSCamera {

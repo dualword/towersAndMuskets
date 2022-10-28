@@ -1,7 +1,7 @@
 #ifndef WORLDMANAGER_H
 #define WORLDMANAGER_H
 
-#include <irrlicht/irrlicht.h>
+#include <irrlicht.h>
 #include <Quadtree.h>
 
 /**

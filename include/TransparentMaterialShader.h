@@ -1,7 +1,7 @@
 #ifndef TRANSPARENTMATERIALSHADER_H
 #define TRANSPARENTMATERIALSHADER_H
 
-#include <irrlicht/irrlicht.h>
+#include <irrlicht.h>
 #include <Game.h>
 
 using namespace irr;

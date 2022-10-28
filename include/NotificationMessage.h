@@ -2,7 +2,7 @@
 #define NOTIFICATIONMESSAGE_H
 
 #include <string>
-#include <irrlicht/irrlicht.h>
+#include <irrlicht.h>
 
 class NotificationMessage {
 private:

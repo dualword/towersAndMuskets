@@ -1,5 +1,5 @@
 #include <SelectionSystem.h>
-#include <sfml/SFML/Window.hpp>
+#include <SFML/Window.hpp>
 #include <RenderManager.h>
 #include <iostream>
 #include <EventReceiver.h>

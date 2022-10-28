@@ -2,7 +2,7 @@
 #define HEALTHCOMPONENT_H
 
 #include <GameComponent.h>
-#include <irrlicht/irrlicht.h>
+#include <irrlicht.h>
 
 class HealthComponent : public GameComponent {
 private:

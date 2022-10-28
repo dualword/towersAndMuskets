@@ -4,7 +4,7 @@
 #include <ObjectManager.h>
 #include <WorldManager.h>
 #include <RenderManager.h>
-#include <irrlicht/irrlicht.h>
+#include <irrlicht.h>
 #include <vector>
 #include <GameState.h>
 #include <GameResources.h>

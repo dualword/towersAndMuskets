@@ -1,7 +1,7 @@
 #ifndef NODEPATH_H
 #define NODEPATH_H
 
-#include <irrlicht/irrlicht.h>
+#include <irrlicht.h>
 #include <vector>
 
 /**

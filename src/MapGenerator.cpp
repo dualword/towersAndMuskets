@@ -1,9 +1,8 @@
 #include <MapGenerator.h>
-#include <irrlicht/irrlicht.h>
+#include <irrlicht.h>
 #include <Game.h>
 #include <ObjectFactory.h>
 #include <NoiseGenerator.h>
-#include <time.h>
 #include <unistd.h>
 #include <TransparentMaterialShader.h>
 

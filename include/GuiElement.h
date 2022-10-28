@@ -1,7 +1,7 @@
 #ifndef GUIELEMENT_H
 #define GUIELEMENT_H
 
-#include <irrlicht/irrlicht.h>
+#include <irrlicht.h>
 #include <EventReceiver.h>
 #include <iostream>
 #include <string>

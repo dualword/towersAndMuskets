@@ -2,7 +2,7 @@
 #define STEERINGSYSTEM_H
 
 #include <ComponentSystem.h>
-#include <irrlicht/irrlicht.h>
+#include <irrlicht.h>
 #include <SteeringComponent.h>
 #include <TransformComponent.h>
 #include <Quadtree.h>

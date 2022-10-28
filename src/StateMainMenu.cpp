@@ -1,5 +1,5 @@
 #include <StateMainMenu.h>
-#include <irrlicht/irrlicht.h>
+#include <irrlicht.h>
 #include <string>
 #include <StatePlaying.h>
 

@@ -4,7 +4,7 @@
 #include <GameComponent.h>
 #include <queue>
 
-#include <irrlicht/irrlicht.h>
+#include <irrlicht.h>
 
 /**
  * Component to move an object along a specific path composed of a

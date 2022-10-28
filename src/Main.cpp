@@ -1,7 +1,7 @@
 #include <iostream>
 #include <string>
-#include <irrlicht/irrlicht.h>
-#include <sfml/SFML/Window.hpp>
+#include <irrlicht.h>
+#include <SFML/Window.hpp>
 
 #include <signal.h>
 #include <stdlib.h>
@@ -12,8 +12,8 @@
 
 #include <TowerDefenseEngine.h>
 #include <random>
-#include <sfml/SFML/Main.hpp>
-#include <sfml/SFML/Audio.hpp>
+#include <SFML/Main.hpp>
+#include <SFML/Audio.hpp>
 
 using namespace std;
 using namespace chrono;

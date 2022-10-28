@@ -1,7 +1,7 @@
 #ifndef GAMESTATE_H
 #define GAMESTATE_H
 
-#include <irrlicht/irrlicht.h>
+#include <irrlicht.h>
 #include <string>
 
 class GameState {
